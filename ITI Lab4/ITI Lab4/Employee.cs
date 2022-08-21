@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ITI_Lab4
 {
-    struct Date
+    class Date
     {
       
         private int day;
@@ -47,19 +47,19 @@ namespace ITI_Lab4
         }
 
     }
-     public enum Gender
+    enum Gender
     {
         Female,
         Male,
     };
-     public enum SecurityLevel
+     enum SecurityLevel
     {
         guest,
         Developer,
         secretary,
         DBA
     };
-     struct Employee
+     class Employee
      {
         private int ID;
         public int GetID()

@@ -14,3 +14,19 @@ E:\ITI\Day4\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.dll
 E:\ITI\Day4\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ref\ITI Lab4.dll
 E:\ITI\Day4\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.pdb
 E:\ITI\Day4\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.genruntimeconfig.cache
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\bin\Debug\net5.0\ITI Lab4.exe
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\bin\Debug\net5.0\ITI Lab4.deps.json
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\bin\Debug\net5.0\ITI Lab4.runtimeconfig.json
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\bin\Debug\net5.0\ITI Lab4.runtimeconfig.dev.json
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\bin\Debug\net5.0\ITI Lab4.dll
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\bin\Debug\net5.0\ref\ITI Lab4.dll
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\bin\Debug\net5.0\ITI Lab4.pdb
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.csproj.AssemblyReference.cache
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.AssemblyInfoInputs.cache
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.AssemblyInfo.cs
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.csproj.CoreCompileInputs.cache
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.dll
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ref\ITI Lab4.dll
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.pdb
+E:\ITI\Day4\ITI Lab4\ITI Lab4\Employee-SubSystem-ITI\ITI Lab4\ITI Lab4\obj\Debug\net5.0\ITI Lab4.genruntimeconfig.cache

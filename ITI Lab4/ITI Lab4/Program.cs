@@ -19,8 +19,9 @@ namespace ITI_Lab4
         {
 
             Employee[] employees = new Employee[3];
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 2; i++)
             {
+                employees[i] = new Employee();
                 #region ID
                 int ID=0;
 
@@ -78,6 +79,12 @@ namespace ITI_Lab4
                     }
                     else Console.WriteLine($"\n\t\t\tInValid Gender\n");
 
+                    //gender = (Gender)Enum.Parse(typeof(Gender), Console.ReadLine().ToUpper());
+                    //if (Enum.TryParse( Console.ReadLine().ToUpper(),out gender))
+                    //{
+                    //    break;
+                    //}
+                    //Console.WriteLine($"\n\t\t\tInValid Gender\n");
                 }
 
 
@@ -172,7 +179,7 @@ namespace ITI_Lab4
                 //Add_Employee(employees[i],ID,salary,gender,securityLevel,HireDate);
             }
 
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 2; i++)
             {
                 employees[i].DisplayData();
             }
